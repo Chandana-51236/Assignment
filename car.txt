@@ -1,0 +1,7 @@
+The dictionary is {'BMW': 'White', 'Ford': 'Black', 'Ferrari': 'Orange', 'Toyota': 'Red'}
+Brand names of the car are : ['Toyota', 'Ford', 'BMW']
+colors of the car are ['Black', 'white', 'Orange']
+The dictionary is : {'Toyota': 'Black', 'Ford': 'white', 'BMW': 'Orange'}
+Brand names of the car are : ['BMW', 'Ford', 'Toyota']
+colors of the car are ['Black', 'white', 'Orange']
+The dictionary is : {'BMW': 'Black', 'Ford': 'white', 'Toyota': 'Orange'}
