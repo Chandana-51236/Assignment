@@ -1,0 +1,1 @@
+SELECT count( distinct venue_name) from FootballVenue;
